@@ -1,0 +1,16 @@
+lst=[6,8,9,12,14,15,23,27,]
+# l1=input("enter number")
+# lst.append(l1)
+print(lst)
+print("sum:",sum(lst))
+print("max:",max(lst))
+print("min:",min(lst))
+lst.sort()
+print("sort ascending: ",lst)
+lst.sort(reverse=True)
+print("sort descending:",lst)
+tuple=list(lst)
+print(tuple)
+ 
+lst.clear()
+print(lst)
