@@ -1,4 +1,4 @@
-lst=[6,8,9,12,14,15,23,27,]
+lst=[6,8,9,18,14,15,23,27]
 # l1=input("enter number")
 # lst.append(l1)
 print(lst)
